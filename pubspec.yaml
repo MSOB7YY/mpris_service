@@ -1,15 +1,15 @@
 name: anni_mpris_service
 description: D-Bus MPRIS controls for Linux.
-version: 0.1.0
+version: 0.1.1
 homepage: https://anni.rs
 repository: https://github.com/ProjectAnni/mpris_service
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: ">=2.17.0 <4.0.0"
   flutter: ">=2.5.0"
 
 platforms:
   linux:
 
 dependencies:
-  dbus: ^0.7.6
+  dbus: ^0.8.0

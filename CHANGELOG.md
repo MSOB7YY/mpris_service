@@ -1,3 +1,9 @@
+## 0.1.1
+
+- Update dbus to 0.8.0.
+- Allow Dart 3.
+
+
 ## 0.1.0
 
 - Fix return type of getProperty.
